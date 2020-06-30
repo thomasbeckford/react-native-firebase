@@ -9,7 +9,7 @@ lerna-debug.log*
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
-/firebase/config.js
+src/firebase/config.js
 
 # Runtime data
 pids
